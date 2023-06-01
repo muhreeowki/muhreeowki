@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Muriuki</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/muhreeowki" target="blank"><img src="https://img.shields.io/twitter/follow/muhreeowki?logo=twitter&style=for-the-badge" alt="muhreeowki" /></a> </p>
-
 - 🌱 I’m currently learning **Python and MERN**
 
 <h3 align="left">Connect with me:</h3>
